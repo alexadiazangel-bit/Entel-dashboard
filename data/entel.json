@@ -1591,7 +1591,9 @@
       "id": 4,
       "site": "VA720",
       "ubicacion": "PEÑUELAS",
-      "estado": "VANDALIZADO"
+      "estado": "VANDALIZADO",
+      "historialNotas": [],
+      "notas": "#1014193 \nActualización: El sitio EB VA720 Peñuelas – Entel – VA720 continúa a la espera de respuesta por parte del cliente para restablecer la comunicación, debido a causa de vandalismo.\nA la fecha no se ha recibido respuesta del cliente, por lo que el caso se mantiene en estado pendiente."
     },
     {
       "id": 5,
