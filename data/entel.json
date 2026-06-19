@@ -1546,8 +1546,13 @@
       "fechaInstalacion": "2024-11-10 00:00:00",
       "fases": "222-",
       "contratista": "A&G",
-      "novedad": "las medidas conisiden con reveal",
-      "historialNovedades": [],
+      "novedad": "#1014818\nEl sitio presenta intermitencia de comunicación el día de hoy  2026-06-01 13:15:00, pero la comunicación no se mantiene, está pendiente realizar la visita a sitio para mejorar la posición de la antena. Quedamos atentos a la confirmación y al apoyo del personal en la estación para llevar a",
+      "historialNovedades": [
+        {
+          "fecha": "18/6/2026, 19:00:31",
+          "contenido": "las medidas conisiden con reveal"
+        }
+      ],
       "med": {
         "c1l1": "Pdte por configuracion",
         "c1l2": "Pdte por configuracion",
@@ -1571,9 +1576,13 @@
         {
           "fecha": "18/6/2026, 18:48:29",
           "contenido": "una"
+        },
+        {
+          "fecha": "18/6/2026, 18:59:17",
+          "contenido": "otra"
         }
       ],
-      "notas": "otra"
+      "notas": "#1014418\nSitio EB VZ579 Peñuelas Quintai - Entel - ZV57 , por actividad de vandalismo, por el momento no se restablece el sitio en apoyo del cliente, sitio que presenta novedad de 2024-02-26, 11:47:41 pm. Perdida de comunicación, genera alerta ID: 5381241 se mantiene en estado pendiente"
     },
     {
       "id": 2,
