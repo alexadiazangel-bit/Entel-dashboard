@@ -1571,9 +1571,14 @@
         {
           "fecha": "18/6/2026, 18:48:29",
           "contenido": "una"
+        },
+        {
+          "fecha": "22/6/2026, 16:50:19",
+          "contenido": "otra",
+          "estado": "ELIMINADA"
         }
       ],
-      "notas": "otra"
+      "notas": ""
     },
     {
       "id": 2,
